@@ -29,4 +29,4 @@ This project thrives on community contributions! Here's how to help:
 * Provide clear context and examples.
 * Adhere to respectful language and collaboration within the community.
 
-Repository creator took assistant (so much) of AI to write below content.
+Repository creator took assistant (so much) of AI to write below content. :)
