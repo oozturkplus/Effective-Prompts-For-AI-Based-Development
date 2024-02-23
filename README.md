@@ -1,4 +1,4 @@
-# Effective Prompts For AI-Based Development
+# Effective Prompts For AI Based Development
 This repository is a collection of prompts crafted to maximize the potential of AI-powered collaborators like Google Duet AI and Github Copilot. Discover how to use these AI tools effectively to assist you with a wide range of coding tasks.
 
 ## Why Use Effective Prompts?
